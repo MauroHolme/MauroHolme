@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MauroHolme
 - 👀 I’m interested in Tecnology
-- 🌱 I’m currently learning SQLSERVER AND REQUIREMENTS
-- 💞️ I’m looking to collaborate on EVER
+- 🌱 I’m currently learning SQLServer and Requirements.
+- 💞️ I am looking to collaborate in a more sustainable life
 - 📫 How to reach me mauroholme@gmail.com
 
 <!---
