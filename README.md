@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MauroHolme
+- 👋 Hi, sou @MauroHolme
 - 👀 I’m interested in Tecnology
 - 🌱 I’m currently learning SQLServer and Requirements.
 - 💞️ I am looking to collaborate in a more sustainable life
